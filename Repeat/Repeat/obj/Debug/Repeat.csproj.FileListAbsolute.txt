@@ -1,0 +1,7 @@
+D:\study\C#\Repeat\Repeat\bin\Debug\Repeat.exe.config
+D:\study\C#\Repeat\Repeat\bin\Debug\Repeat.exe
+D:\study\C#\Repeat\Repeat\bin\Debug\Repeat.pdb
+D:\study\C#\Repeat\Repeat\obj\Debug\Repeat.csprojAssemblyReference.cache
+D:\study\C#\Repeat\Repeat\obj\Debug\Repeat.csproj.CoreCompileInputs.cache
+D:\study\C#\Repeat\Repeat\obj\Debug\Repeat.exe
+D:\study\C#\Repeat\Repeat\obj\Debug\Repeat.pdb

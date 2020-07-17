@@ -1,0 +1,10 @@
+D:\study\C#\EventHandler\EventHandler\bin\Debug\EventHandler.exe.config
+D:\study\C#\EventHandler\EventHandler\bin\Debug\EventHandler.exe
+D:\study\C#\EventHandler\EventHandler\bin\Debug\EventHandler.pdb
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.csprojAssemblyReference.cache
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.Form1.resources
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.Properties.Resources.resources
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.csproj.GenerateResource.cache
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.csproj.CoreCompileInputs.cache
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.exe
+D:\study\C#\EventHandler\EventHandler\obj\Debug\EventHandler.pdb

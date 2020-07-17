@@ -1,0 +1,7 @@
+D:\study\C#\MultiArray\MultiArray\bin\Debug\MultiArray.exe.config
+D:\study\C#\MultiArray\MultiArray\bin\Debug\MultiArray.exe
+D:\study\C#\MultiArray\MultiArray\bin\Debug\MultiArray.pdb
+D:\study\C#\MultiArray\MultiArray\obj\Debug\MultiArray.csprojAssemblyReference.cache
+D:\study\C#\MultiArray\MultiArray\obj\Debug\MultiArray.csproj.CoreCompileInputs.cache
+D:\study\C#\MultiArray\MultiArray\obj\Debug\MultiArray.exe
+D:\study\C#\MultiArray\MultiArray\obj\Debug\MultiArray.pdb

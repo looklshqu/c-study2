@@ -1,0 +1,7 @@
+D:\study\C#\Yeild\Yeild\bin\Debug\Yeild.exe.config
+D:\study\C#\Yeild\Yeild\bin\Debug\Yeild.exe
+D:\study\C#\Yeild\Yeild\bin\Debug\Yeild.pdb
+D:\study\C#\Yeild\Yeild\obj\Debug\Yeild.csprojAssemblyReference.cache
+D:\study\C#\Yeild\Yeild\obj\Debug\Yeild.csproj.CoreCompileInputs.cache
+D:\study\C#\Yeild\Yeild\obj\Debug\Yeild.exe
+D:\study\C#\Yeild\Yeild\obj\Debug\Yeild.pdb
